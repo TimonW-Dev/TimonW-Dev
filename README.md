@@ -9,7 +9,7 @@ Did you know? APT has Super Cow Powers!
 -->
 
 - 🔭 I’m currently working on micropython with microchips (ESP32, ESP8266, PicoW)
-- 🌱 I’m currently learning HTML, CSS, Javascript, Flask, Python and Micropython
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python and Micropython
 - 💬 Ask me about my own version of micropg ([micropg_lite](https://github.com/TimonW-Dev/micropg_lite)) which is made to run on a ESP8266 chip with 64 KB RAM
 - 📫 How to reach me: [timon-github@outlook.com](mailto:timon-github@outlook.com)
 
